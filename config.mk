@@ -16,6 +16,7 @@ PRODUCT_PACKAGES += \
     FontComfortaaOverlay \
     FontComicSansOverlay \
     FontCookieRunOverlay \
+    FontCooljazzOverlay \
     RobotoFallback-VF.ttf \
     FontCoolstoryOverlay \
     FontExotwoOverlay \
