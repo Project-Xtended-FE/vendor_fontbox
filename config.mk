@@ -49,6 +49,7 @@ PRODUCT_PACKAGES += \
     FontSansSerifOverlay \
     FontSimpleDayOverlay \
     FontSonySketchOverlay \
+    FontSpaceGroteskOverlay \
     FontStoropiaOverlay \
     FontSurferOverlay \
     FontRosemaryOverlay \
