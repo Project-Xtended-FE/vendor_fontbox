@@ -47,6 +47,7 @@ PRODUCT_PACKAGES += \
     FontSanFranciscoDisplayProSourceOverlay \
     FontSamsungOneOverlay \
     FontSansSerifOverlay \
+    FontSimpleDayOverlay \
     FontSonySketchOverlay \
     FontStoropiaOverlay \
     FontSurferOverlay \
