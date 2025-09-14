@@ -71,6 +71,7 @@ PRODUCT_PACKAGES += \
     ClockFontPoppinsSourceOverlay \
     ClockFontQuandoOverlay \
     ClockFontQuickSouthOverlay \
+    ClockFontRidgeOverlay \
     ClockFontRedressedOverlay \
     ClockFontReemKufiOverlay \
     ClockFontRemponkOverlay \

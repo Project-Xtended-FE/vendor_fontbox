@@ -1363,6 +1363,11 @@
         <font weight="300" style="normal">VolteRoundedBold.ttf</font>
     </family>
 
+    <!-- Ridge -->
+    <family customizationType="new-named-family" name="Ridge">
+        <font weight="400" style="normal">Ridge.otf</font>
+    </family>
+
     <!-- Simple day -->
     <family customizationType="new-named-family" name="SimpleDay">
         <font weight="400" style="normal">SimpleDay.ttf</font>
