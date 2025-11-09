@@ -9,12 +9,7 @@ PRODUCT_PACKAGES += \
     FontGoogleSansOverlay \
     FontJetBrainsMonoOverlay \
     FontSpaceGroteskOverlay \
-    FontVolteRoundedOverlay \
-    ClockFontVolteRoundedBoldOverlay \
-    ClockFontBeautyOverlay \
-    ClockFontRidgeOverlay \
-    ClockFontSubwayOverlay \
-    ClockFontSFPro-SemiboldRoundedOverlay
+    FontVolteRoundedOverlay
 
 # Include {Lato,Rubik} fonts
 $(call inherit-product-if-exists, external/google-fonts/lato/fonts.mk)
